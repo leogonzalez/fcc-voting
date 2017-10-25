@@ -4,7 +4,7 @@ import PrivateHeader from './PrivateHeader.js';
 export default () => {
   return (
     <div>
-      <PrivateHeader title='Dashboard'/>
+      <PrivateHeader title='Free Code Camp Voting App'/>
       <div className='page--content'>
         Dashboard page content
       </div>
